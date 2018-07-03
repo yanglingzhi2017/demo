@@ -1,0 +1,16 @@
+{
+    "name": "yang/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+        "topthink/think": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yanglingzhi",
+            "email": "leqo@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
