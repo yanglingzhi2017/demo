@@ -1,9 +1,9 @@
 {
-    "name": "yang/demo",
+    "name": "yang/add",
     "description": "a test composer project",
     "type": "project",
     "require": {
-        "topthink/think": "*"
+        "topthink/think-worker": "*"
     },
     "license": "MIT",
     "authors": [
